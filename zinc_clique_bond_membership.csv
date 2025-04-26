@@ -1,4 +1,4 @@
-graph_id,clique_id,bond_id
+clique_id,graph_id,bond_id
 0,0,2
 0,0,3
 0,0,4
